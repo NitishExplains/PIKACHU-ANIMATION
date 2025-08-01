@@ -30,14 +30,12 @@ It covers:
 1. Install Python 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/pikachu-drawing.git
+   [git clone https://github.com/YOUR-USERNAME/pikachu-drawing.git](https://github.com/NitishExplains/PIKACHU-ANIMATION/tree/main)
 
    
 Open the folder:
 
 bash
-Copy
-Edit
 cd pikachu-drawing
 
 Run the script:
