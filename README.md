@@ -34,10 +34,9 @@ It covers:
 
    
 Open the folder:
-
-bash
 cd pikachu-drawing
 
 Run the script:
+
 Enjoy watching Pikachu come to life! ⚡
 
